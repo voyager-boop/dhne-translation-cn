@@ -614,7 +614,7 @@ src/items.lua:1706		+${amount} pts!	+${amount}点数！
 src/items.lua:1717		Bleeding Baby	流血宝宝
 src/items.lua:1720		+${dynamic} Mult from busts, resets on wipe	Bust以获得+${dynamic}乘数，wipe时重置
 src/items.lua:1750		Grudge Baby	记仇宝宝
-src/items.lua:1753		+${dynamic} Mult, -1 Mult each time you bank	+${dynamic}点数，每次bank时-1乘数
+src/items.lua:1753		+${dynamic} Mult, -1 Mult each time you bank	+${dynamic}乘数，每次bank时-1乘数
 src/items.lua:1769		-1 mult	-1乘数
 src/items.lua:1781		Glass Gecko	玻璃壁虎
 src/items.lua:1782		+10 Mult, destroyed on Bust	+10乘数，Bust时自爆
